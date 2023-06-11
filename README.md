@@ -1,16 +1,8 @@
-# inventory_app
+This is a Inventory application. The objective of this application is for keeping records of items used in the IT department in Lagos Continental Hotel. This a just the UI design which is still in development.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have been able to design the following screens
+1. Register Screen
+2. Login Screen
+3. List of equipments screen
+4. Category screen
+5. Home screen
